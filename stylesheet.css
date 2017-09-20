@@ -8,16 +8,21 @@ img {
 }
 .orange {
   color:#FF6600;
+  height:250vh;
+ width:100vw;
 }
 .blue {
   color:#003399;
+  height:250vh;
+ width:100vw; 
 }
 .red {
   color:#CC0000;
+   height:250vh;
+ width:100vw;
 }
 .green {
   color:#339900;
-}
-.pink {
-  color:#F98D8D;
+   height:250vh;
+ width:100vw;
 }
