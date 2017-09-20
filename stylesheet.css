@@ -3,14 +3,9 @@ img {
   width: 150px;
   align: center;
 }
-.box {
-  align: left;
-  min-height: 200px;
-  width:200px
-}
 .orange {
-  background-color: #FF6600;
-  height:250vh;
+ background-color: #FF6600;
+ height:250vh;
  width:100vw;
 display:block;
 align:left;
