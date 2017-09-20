@@ -7,28 +7,24 @@ img {
  background-color: #FF6600;
 margin-left: 70px;
 width: 10%;
-border: 3px solid #73AD21;
 padding: 10px;
 }
 .blue {
   background-color: #003399;
 margin-left: 70px;
 width: 50vw;
-border: 3px solid #73AD21;
 padding: 10px;
 }
 .red {
  background-color: #CC0000;
 margin-left: 70px;
 width: 50vw;
-border: 3px solid #73AD21;
 padding: 10px;
 }
 .green {
  background-color: #339900;
  margin-left: 70px;
 width: 10vw;
-border: 3px solid #73AD21;
 padding: 10px;
 }
 .white {
