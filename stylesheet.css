@@ -5,34 +5,34 @@ img {
 }
 .orange {
  background-color: #FF6600;
-margin: auto;
+margin-left: auto;
 width: 60%;
 border: 3px solid #73AD21;
 padding: 10px;
 }
 .blue {
   background-color: #003399;
-  height:250vh;
- width:100vw; 
+  height: 250vh;
+ width: 100vw; 
 margin-left:70px;
 float:left;
 }
 .red {
  background-color: #CC0000;
-   height:250vh;
- width:100vw;
-margin-left:70px;
-float:left;
+   height: 250vh;
+ width: 100vw;
+margin-left :70px;
+float: left;
 }
 .green {
  background-color: #339900;
-   height:250vh;
- width:100vw;
-margin-left:70px;
-float:left;
+   height: 250vh;
+ width: 100vw;
+margin-left: 70px;
+float: left;
 }
 .white {
 	  background-color: #FFFFFF;
-	  min-height:10px;
+	  min-height: 10px;
 	  width: 50%;
 }
