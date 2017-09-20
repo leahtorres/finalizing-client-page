@@ -5,31 +5,31 @@ img {
 }
 .orange {
  background-color: #FF6600;
-margin-left: auto;
-width: 60%;
+margin: left;
+width: 10%;
 border: 3px solid #73AD21;
 padding: 10px;
 }
 .blue {
   background-color: #003399;
-  height: 250vh;
- width: 100vw; 
-margin-left:70px;
-float:left;
+margin: left;
+width: 10%;
+border: 3px solid #73AD21;
+padding: 10px;
 }
 .red {
  background-color: #CC0000;
-   height: 250vh;
- width: 100vw;
-margin-left :70px;
-float: left;
+margin: left;
+width: 10%;
+border: 3px solid #73AD21;
+padding: 10px;
 }
 .green {
  background-color: #339900;
-   height: 250vh;
- width: 100vw;
-margin-left: 70px;
-float: left;
+ margin: left;
+width: 10%;
+border: 3px solid #73AD21;
+padding: 10px;
 }
 .white {
 	  background-color: #FFFFFF;
