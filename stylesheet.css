@@ -6,31 +6,31 @@ img {
 .orange {
  background-color: #FF6600;
 margin-left: 70px;
-width: 10%;
+width: 100vw;
 padding: 10px;
 }
 .blue {
   background-color: #003399;
 margin-left: 70px;
-width: 50vw;
+width: 100vw;
 padding: 10px;
 }
 .red {
  background-color: #CC0000;
 margin-left: 70px;
-width: 50vw;
+width: 100vw;
 padding: 10px;
 }
 .green {
  background-color: #339900;
  margin-left: 70px;
-width: 10vw;
+width: 100vw;
 padding: 10px;
 }
 .white {
 background-color:  #ffffff;
  margin-left: 70px;
-width: 10%;
+width: 100vw;
 }
 h1 {
 	font-family: 'Raleway', sans-serif;
