@@ -8,28 +8,32 @@ img {
  height:250vh;
  width:100vw;
 display:block;
-align:left;
+margin-left:70px;
+float:left;
 }
 .blue {
   background-color: #003399;
   height:250vh;
  width:100vw; 
 display:block;
-align:left;
+margin-left:70px;
+float:left;
 }
 .red {
  background-color: #CC0000;
    height:250vh;
  width:100vw;
 display:block;
-align:left;
+margin-left:70px;
+float:left;
 }
 .green {
  background-color: #339900;
    height:250vh;
  width:100vw;
 display: block;
-align:left;
+margin-left:70px;
+float:left;
 }
 .white {
 	  background-color: #FFFFFF;
