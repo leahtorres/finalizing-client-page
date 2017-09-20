@@ -7,7 +7,6 @@ img {
  background-color: #FF6600;
  height:250vh;
  width:100vw;
-display:block;
 margin-left:70px;
 float:left;
 }
@@ -15,7 +14,6 @@ float:left;
   background-color: #003399;
   height:250vh;
  width:100vw; 
-display:block;
 margin-left:70px;
 float:left;
 }
@@ -23,7 +21,6 @@ float:left;
  background-color: #CC0000;
    height:250vh;
  width:100vw;
-display:block;
 margin-left:70px;
 float:left;
 }
@@ -31,7 +28,6 @@ float:left;
  background-color: #339900;
    height:250vh;
  width:100vw;
-display: block;
 margin-left:70px;
 float:left;
 }
