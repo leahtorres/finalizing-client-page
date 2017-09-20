@@ -5,28 +5,32 @@ img {
 }
 .box {
   align: left;
-  min-height:200px;
+  min-height: 200px;
   width:200px
 }
 .orange {
-  background-color:#FF6600;
+  background-color: #FF6600;
   height:250vh;
  width:100vw;
+display:block;
 }
 .blue {
-  background-color:#003399;
+  background-color: #003399;
   height:250vh;
  width:100vw; 
+display:block;
 }
 .red {
- background-color:#CC0000;
+ background-color: #CC0000;
    height:250vh;
  width:100vw;
+display:block;
 }
 .green {
- background-color:#339900;
+ background-color: #339900;
    height:250vh;
  width:100vw;
+display: block;
 }
 .white {
 	  background-color: #FFFFFF;
