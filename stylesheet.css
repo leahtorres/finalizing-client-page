@@ -3,4 +3,21 @@ img {
   width: 150px;
   align: center;
 }
-
+.box {
+  align: left;
+}
+.orange {
+  color:#FF6600;
+}
+.blue {
+  color:#003399;
+}
+.red {
+  color:#CC0000;
+}
+.green {
+  color:#339900;
+}
+.pink {
+  color:#F98D8D;
+}
